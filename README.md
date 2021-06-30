@@ -1,2 +1,2 @@
 # Rest_API_Assignment
-An REST API with Spring Boot project to Create, Read, Update, Delete the Employee.
+A Spring Boot project with REST API to Create, Read, Update, Delete the Employee.
